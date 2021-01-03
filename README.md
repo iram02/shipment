@@ -1,11 +1,11 @@
-#Below is the description of the task:
+Below is the description of the task:
 
-##Technology used:
+Technology used:
 1. ReactJS
 2. Material UI
 3. Axios (for API call)
 
-##Details:
+Details:
 1. I bootstraped the react project using the create-react-app package.
 2. For designing the UI, I used Material-UI. Material-UI provides some predefined and highly customizable react components which we can directly use in the app. This makes the UI development very easy as compared to traditional CSS styling.
 3. All the components of the project reside inside the src folder.
